@@ -1,3 +1,4 @@
+RULE : end with 'ab'
 3
 1
 3
@@ -7,3 +8,16 @@
 2 a 2
 3 b 1
 3 a 2
+
+RULE : str len = 2
+4
+1
+3
+1 a 2
+1 b 2
+2 a 3
+2 b 3
+3 a 4
+3 b 4
+4 a 4
+4 b 4
